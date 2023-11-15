@@ -1,24 +1,41 @@
-# relogio-digital
 
+<h1 align="center" id="project_name">
+  <br />
+    Relogio Digital
+  <br /><br />
+  <img src="img/to-do-list.png" alt="Logo" height="60%" width="60%">
+  <br />
+</h1>
 
-## Tecnologias utilizadas
+<p align="center">Esse projeto foi desenvolvido a partir de pesquisas no youtube</p>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<br />
+<h2 id="technologies">🛠 Tecnologias</h2>
 
-## ⬛️ Social
-Voce pode me encontrar aqui:<br>
+As seguintes ferramentas foram usadas na construção do projeto:
 
-  <a href= "https://www.instagram.com/maddusilva.dev/">
-    <img src="https://img.icons8.com/ios-glyphs/256/0cd0cd/instagram-new.svg" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/maria-eduarda-silva-65090825a/">
-    <img src="https://img.icons8.com/ios-filled/256/0cd0cd/linkedin.svg" width="28px"/>
-  </a>
-  &emsp;
- <br><br>
- 
+- **[HTML](https://exemplo.com)**
+- **[CSS](https://exemplo.com)**
+- **[JS](https://exemplo.com)**
 
-*Made with love ♡ by Maria*
+**Utilitários**
+
+- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
+
+<h2 id="author">🦸 Autor</h2>
+<a href="#">
+
+ <sub><b> Maria Eduarda da Silva </b></sub></a>
+
+ <h2 id="author">Social</h2>
+<a href="#">
+
+<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maddusilvadev/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maddusilva.dev/)
+[![Email Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:maria.arimym@outlook.com)
+
+<br />
+
+*Made with love ♡ by Maddu* 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maddusilvadev/)
