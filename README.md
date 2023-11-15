@@ -3,7 +3,7 @@
   <br />
     Relogio Digital
   <br /><br />
-  <img src="img/to-do-list.png" alt="Logo" height="60%" width="60%">
+  <img src="Relógio digital/img/relogio.png" alt="Logo" height="60%" width="60%">
   <br />
 </h1>
 
